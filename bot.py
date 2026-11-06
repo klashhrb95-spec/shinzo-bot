@@ -129,4 +129,4 @@ async def dev_say(ctx, *, message: str):
     await ctx.message.delete()
     await ctx.send(message)
 
-bot.run(TOKEN)
+bot.run(MTU2ODI4NzI1ODYwNjMxMzU2Mw.GEiEQB.jYqR6sLoGL-Uv5kOrfRaxXkJuW-PWhUld0znh4)
